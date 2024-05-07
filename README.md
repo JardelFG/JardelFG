@@ -9,13 +9,15 @@
 <br>
 <br>
 <br>
-<p align="center">
-  Me llamo Jardel y tengo un año de experiencia sobre el Front-end y Back-end básico en proyectos personales y colaborativos sigo creciendo en conocimientos y dominio de tecnologías.
-</p>
-<img src="https://readme-typing-svg.demolab.com?font=&size=16&pause=1000&color=C0C0C0&font=italic&center=true&random=false&width=550&height=30&lines=La+%C3%BAnica+forma+de+aprender+a+programar+es+programando" alt="svg" />
-<br>
-<br>
-<br>
+<div align="center">
+  <p>
+    Me llamo Jardel y tengo un año de experiencia sobre el Front-end y Back-end básico en proyectos personales y colaborativos sigo creciendo en conocimientos y dominio de tecnologías.
+  <p/>
+  
+  [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=La+%C3%BAnica+forma+de+aprender+a+programar+es+programando&type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+
 
 <!-- tecnologies -->
 <h2>Skills</h2>
